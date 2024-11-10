@@ -1,0 +1,21 @@
+baseURL = "https://paluchow.ski"
+languageCode = "en"
+title = "Personal website of Matt Paluchowski"
+theme = "black-and-light"
+
+pygmentsstyle       = "bw"
+pygmentscodefences  = true
+
+[params]
+  sitename = "Matt Paluchowski"
+  disableWebFonts = false
+
+[[menu.main]]
+    name = "About"
+    url  = "/about"
+[[menu.main]]
+    name = "Projects"
+    url  = "https://github.com/PaluchowskiMatthew"
+[[menu.main]]
+    name = "Linkedin"
+    url  = "https://www.linkedin.com/in/mattpa/"

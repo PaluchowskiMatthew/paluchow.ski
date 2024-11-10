@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on Personal website of Matt Paluchowski</title>
+    <link>http://localhost:1313/post/</link>
+    <description>Recent content in Posts on Personal website of Matt Paluchowski</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Sun, 08 Jan 2017 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/post/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Black &amp; Light Demo</title>
+      <link>http://localhost:1313/post/hugo-block-and-light-theme/</link>
+      <pubDate>Sun, 08 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/post/hugo-block-and-light-theme/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;https://github.com/davidhampgonsalves/hugo-black-and-light-theme&#34;&gt;Black and Light&lt;/a&gt; is a high contrast, performant and Javascript-free theme.&lt;/p&gt;&#xA;&lt;h2 id=&#34;features&#34;&gt;Features&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Loads in a single request (with web-fonts disabled)&lt;/li&gt;&#xA;&lt;li&gt;100 / 100 on Google Page Speed test (100 / 100 on mobile with web-fonts disabled)&lt;/li&gt;&#xA;&lt;li&gt;Scriptless (unless you enable Google Analyitcs)&lt;/li&gt;&#xA;&lt;li&gt;Styles inlined in head&lt;/li&gt;&#xA;&lt;li&gt;High Contrast&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h2 id=&#34;style-demo&#34;&gt;Style Demo&lt;/h2&gt;&#xA;&lt;h1 id=&#34;h1-heading&#34;&gt;h1 Heading&lt;/h1&gt;&#xA;&lt;h2 id=&#34;h2-heading&#34;&gt;h2 Heading&lt;/h2&gt;&#xA;&lt;h3 id=&#34;h3-heading&#34;&gt;h3 Heading&lt;/h3&gt;&#xA;&lt;h4 id=&#34;h4-heading&#34;&gt;h4 Heading&lt;/h4&gt;&#xA;&lt;h5 id=&#34;h5-heading&#34;&gt;h5 Heading&lt;/h5&gt;&#xA;&lt;h6 id=&#34;h6-heading&#34;&gt;h6 Heading&lt;/h6&gt;&#xA;&lt;hr&gt;&#xA;&lt;p&gt;&lt;strong&gt;This is bold text&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;This is bold text&lt;/strong&gt;&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
